@@ -7,7 +7,7 @@ In this Assignment, I have performed two web scrapings of the websites "https://
 
 ## Work Summary
 The web scraping and data analysis on the Mars Data is performed on the two different jupyter notebook files:
-part_1_mars_news.ipynb is the Jupyter notebook file which relates to the first website. It contains the code to scrape this news website of all of the titles and summaries of news articles.
+part_1_mars_news.ipynb is the Jupyter notebook file which relates to the first website. It contains the code to scrape this news website of all of the titles and previews of news articles.
 part_2_mars_news.ipynb is scraping weather data focused on mars. It also contains analysis of temperature and pressure and an investigation into the lengh of a martian year using only the data provided.
 
 ## Data Analysis
